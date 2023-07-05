@@ -12,7 +12,7 @@ public class Main {
             bonus = (0);
         }
         int your_bonus = put / 100;
-        int new_balance = bonus+bill+put;
+        int new_balance = bonus + bill + put;
 
         System.out.println();
         System.out.println("Начисленно бонусных рублей: " + bonus + " руб");
