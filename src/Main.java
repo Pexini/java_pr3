@@ -7,13 +7,13 @@ public class Main {
 
         int bonus;
         if (putmoney) {
-            bonus = put/100;
-        }else{
+            bonus = put / 100;
+        } else {
             bonus = (0);
         }
-        int your_bonus = put/100;
+        int your_bonus = put / 100;
 
-        System.out.println("Ваш бонус: " + bonus +" руб");
+        System.out.println("Ваш бонус: " + bonus + " руб");
 
     }
 }
